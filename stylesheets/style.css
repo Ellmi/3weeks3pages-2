@@ -420,30 +420,31 @@ header .userImg {
 .main div.post {
   display: inline-block;
   margin: 0px 0px 0px 50px;
+  width: 90%;
 }
 
-/* line 316, ../sass/style.scss */
+/* line 317, ../sass/style.scss */
 .main div.post section {
   width: 100%;
 }
 
-/* line 320, ../sass/style.scss */
+/* line 321, ../sass/style.scss */
 .postInfo .id {
   color: #ccc;
 }
 
-/* line 324, ../sass/style.scss */
+/* line 325, ../sass/style.scss */
 .postInfo .time {
   float: right;
   color: #ccc;
 }
 
-/* line 329, ../sass/style.scss */
+/* line 330, ../sass/style.scss */
 .postInfo span.fa-refresh {
   color: green;
 }
 
-/* line 332, ../sass/style.scss */
+/* line 333, ../sass/style.scss */
 .main .post section.postContent {
   line-height: 18px;
   color: #716F69;
@@ -451,47 +452,47 @@ header .userImg {
   font-weight: lighter;
 }
 
-/* line 339, ../sass/style.scss */
+/* line 340, ../sass/style.scss */
 .main .post section.postContent object {
-  height: 300px;
+  height: 400px;
 }
 
-/* line 342, ../sass/style.scss */
+/* line 343, ../sass/style.scss */
 .main .post section.follower {
   margin-top: 15px;
   color: #ccc;
 }
 
-/* line 348, ../sass/style.scss */
+/* line 349, ../sass/style.scss */
 .main .post section.follower span {
   display: inline-block;
   margin-right: 10px;
   font-size: 0.9rem;
 }
 
-/* line 354, ../sass/style.scss */
+/* line 355, ../sass/style.scss */
 .main .post section.follower span.fa-resize {
   float: right;
 }
 
 @media screen and (max-width: 1000px) {
-  /* line 360, ../sass/style.scss */
+  /* line 361, ../sass/style.scss */
   .rightSidebar {
     display: none;
   }
 
-  /* line 363, ../sass/style.scss */
+  /* line 364, ../sass/style.scss */
   .contents {
     margin: 0px 30px 0px 245px;
   }
 }
 @media screen and (max-width: 600px) {
-  /* line 369, ../sass/style.scss */
+  /* line 370, ../sass/style.scss */
   .leftSidebar {
     display: none;
   }
 
-  /* line 372, ../sass/style.scss */
+  /* line 373, ../sass/style.scss */
   .contents {
     margin: 0px 0px 0px 0px;
   }
